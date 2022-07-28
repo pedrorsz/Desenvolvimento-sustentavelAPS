@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <link href="pedrorsz.github.io/Desenvolvimento-sustentavelAPS/style2.css" 
+  rel="stylesheet" />
+  <link rel="shortcut icon" type="image/ico" href="Imagens/icone.ico"/>
+  <META http-equiv=Content-Type content="text/html; charset=UTF-8">
+  <title>O que é a escassez de água?</title>
+ </head>
+<body class="bg">
+  <nav class="Menu">
+    <a href="Index.html">Home</a>
+    <div class="dot"></div>
+  </nav>
+<div class="container">
+  <img src="Imagens/torn.png">
+    <h1>
+      O QUE É A ESCASSEZ DE ÁGUA?
+      <p> A Escassez de água é a falta de recursos de água doce para atender à demanda padrão de água. A escassez de água pode ser causada por secas, falta de chuvas ou poluição. A escassez de água foi listada em 2019 pelo como um dos maiores riscos globais em termos de impacto potencial na próxima década. É manifestada pela satisfação parcial ou inexistente da demanda expressa, competição econômica pela quantidade ou qualidade da água, disputas entre usuários, esgotamento irreversível das águas subterrâneas e impactos negativos sobre o meio ambiente. Dois terços da população global (4 bilhões de pessoas) vivem em condições de severa escassez de água pelo menos 1 mês por ano. Meio bilhão de pessoas no mundo enfrentam grave escassez de água durante todo o ano. Metade das maiores cidades do mundo sofrem de escassez de água. A essência da escassez global de água é a incompatibilidade geográfica e temporal entre a demanda e a disponibilidade de água doce. O aumento da população mundial, a melhoria dos padrões de vida, a mudança dos padrões de consumo e a expansão da agricultura irrigada são as principais forças motrizes da crescente demanda global por água. Mudanças climáticas, como padrões climáticos alterados (incluindo secas ou inundações), desmatamento, aumento da poluição, gases de efeito estufa e desperdício de água podem causar abastecimento insuficiente. Em nível global e em uma base anual, água doce suficiente está disponível para atender essa demanda, mas as variações espaciais e temporais da demanda e disponibilidade de água são grandes, levando à escassez de água (física) em várias partes do mundo durante períodos específicos do ano.</p><span style="font-size: 10px; color: lightgrey; font-style: italic;">"Escassez de água." In: Wikipédia. Disponível em: https://pt.m.wikipedia.org/wiki/Escassez_de_%C3%A1gua. Acesso em: 20 maio 2022.</span>
+   </h1>
+</div>
+</body>
+</html>
